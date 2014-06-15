@@ -1,0 +1,172 @@
+  body
+{
+    text-align: left;
+    background: url("http://ironyard.com");
+    color: white;
+    font-family: 'Josefin Sans', sans-serif;n;
+}
+
+  #header
+{
+    background-image:url("../images/background.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 500px;
+    min-width: 1024px;
+    margin: -10px -10px 0px -10px;
+
+}
+
+  #blueopacity
+{
+    width: 100%;
+    height: 500px;
+    position: absolute;
+    background: rgba(0, 138, 216, 0.5);
+}
+
+	#header h1
+{
+    text-align: center;
+    line-height: 100px;
+    font-size: 85px;
+    margin: auto;
+    font-weight: bold;
+    position: relative;
+    top: 40%;
+    width: 100%;
+    float: right;
+}
+
+  #header h3
+{
+    text-align: center;
+    line-height: 0px;
+    font-size: 15px;
+    color: black;
+    font-weight: bolder;
+    margin: auto;
+    position: relative;
+    top: 40%;
+    width: 100%;
+    float: right;
+}
+
+  #nav
+{
+  position: relative;
+	width: 100%;
+	background: none;
+}
+
+  #nav ul
+{
+  float: right;
+	margin: 10px 0px 0px 0px;
+	padding: 0;
+}
+
+  #nav ul li
+{
+	list-style-type: none;
+	display: inline;
+  margin: 10px 20px 0px 0px;
+}
+
+  #nav li a
+{
+	display: block;
+	float: left;
+	padding: 5px 10px;
+	color: black;
+  font-weight: bold;
+	text-decoration: none;
+}
+
+  #waveicon
+{
+    position: absolute;
+    width: 40px;
+    margin: 0px 10px 10px 20px;
+}
+  #waveicon h2
+{
+    text-align: left;
+    position: absolute;
+    display: inline;
+    font-size: 14px;
+    color: black;
+    filter: none;
+    white-space: nowrap;
+    margin: 15px 10px 10px 55px;
+}
+  #main
+{
+    width: 900px;
+    font-size: 32px;
+    color: #000040;
+    font-weight: bolder;
+    margin: 0px 0px 0px 100px;
+    float: left;
+}
+
+  #byline
+{
+    left: 25px;
+    top: -20px;
+    width: 40px;
+    text-align: left;
+    position: relative;
+    white-space: nowrap;
+    margin: -10px 0px 0px 0px;
+
+}
+
+  #bylinesurf
+{
+    position: absolute;
+    left: -30px;
+    top: -35px;
+    width: 40px;
+    text-align: left;
+    position: relative;
+    white-space: nowrap;
+    margin: -10px 0px 0px 0px;
+
+}
+  #content_1
+{
+    text-align: justify;
+    font-size: 18px;
+    color: black;
+    width: 750px;
+
+}
+
+  #pquote {
+	float: left;
+	font-size: 20px;
+  color: darkblue;
+  display: inline;
+  line-height: 0.9;
+  padding: 10px;
+
+}
+
+  #Container_3
+{
+    text-align: center
+    font-size: 80px;
+    color: #000040;
+    font-weight: bolder;
+    margin: 0px 0px 0px 100px;
+}
+
+  #aside
+{
+  display: inline-block;
+  width: 350px;
+  height: 500px;
+  margin: 1em;
+  float: right;
+}
